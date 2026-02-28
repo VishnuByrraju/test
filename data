@@ -1,11 +1,1 @@
-[Interface]
-PrivateKey = qB779WQYgtMH9BnPY75JSa29wVYt1OTkshYUP+zqn20=
-Address = 10.8.0.15/24
-DNS = 1.1.1.1
-
-[Peer]
-PublicKey = QlhE3cu/J0kT3zCjFyU1zGZgRJGetIT3RKj6Eu/R0R8=
-PresharedKey = +TeLhTohKMXTp4sPPc58ucrrzkTFXzj7rktgCp1NL4s=
-AllowedIPs = 0.0.0.0/0, ::/0
-PersistentKeepalive = 0
-Endpoint = 129.154.47.3:51820
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII/0T9b1nGPmJMnQSwwPGYY4WUY37Xdb5lSaBsCHnO4N root@stackryze
